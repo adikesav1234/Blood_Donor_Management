@@ -1,6 +1,4 @@
 import mysql.connector
-from mysql.connector import cursor
-from MySQL_Connection.student_CRUD import query, values
 
 
 class BloodDonorManager:
